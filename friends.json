@@ -1,0 +1,40 @@
+[
+
+    {
+        "id": 1,
+        "name": "Arnold Schwarzenegger",
+        "image": "https://i.pinimg.com/474x/b7/b1/df/b7b1df000580bcf9af5a8767dcd3ef2a.jpg",
+        "occupation": "Weightlifting",
+        "location": "Califorina"
+      },
+      {
+         "id": 1,
+         "name": "Jillian Michaels",
+         "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiNruvcxsnmAhWtiOAKHfjpAv8QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F397442735862579878%2F&psig=AOvVaw1zdBhUeXnFaLI6DDGP-fVl&ust=1577114285286617",
+         "occupation": "Cardio",
+         "location": "Philadelphia"
+
+      },
+      {
+         "id": 1,
+         "name": "Billy Blanks",
+         "image": "https://familyguyaddicts.files.wordpress.com/2017/02/image14.jpg?w=153&h=300",
+         "occupation": "Cardio",
+         "location": "Washington"
+
+
+
+
+      }
+
+
+    
+
+
+
+
+
+
+
+
+]
