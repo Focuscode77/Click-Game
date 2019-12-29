@@ -13,14 +13,14 @@ class App extends Component {
     friends: [
       {
 
-        gif: require("../src/gifs/2DA16715-0291-4972-B6E1-144A364ED43E_4_5005_c.jpeg"),
+        gif: require("../src/gifs/6EA0E064-4DCD-41D8-93D9-5A14B437E639_4_5005_c.jpeg"),
         id: 1
 
       },
 
       {
 
-        gif: require("../src/gifs/A6F3505F-A08D-4D11-BC2D-4D7E445BDDBB.jpeg"),
+        gif: require("../src/gifs/9B584571-8956-41F2-9078-9EB122AFF51D_4_5005_c.jpeg"),
         id: 2
       },
 
@@ -28,6 +28,11 @@ class App extends Component {
 
         gif: require("../src/gifs/D7A9F136-8F39-4AB4-90D7-4B7FB3C8CF68_4_5005_c.jpeg"),
         id: 3
+      },
+      {
+
+        gif: require("../src/gifs/17DA3EE7-608C-499B-B8C9-E46410236148_4_5005_c.jpeg"),
+        id: 4
       }
     ]
 
