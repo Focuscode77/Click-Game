@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import "./friendstyles.css";
+import Header from "./components/Header"
 
 
 class App extends Component {
@@ -83,9 +84,9 @@ friends[friendSelected] = temp;
     console.log(this.state)
     return (
       <div className="App">
-
-        <h1>Clicky Friends!</h1>
-        <p>Click all the friends no duplicates allowed!</p>
+       <Header></Header>
+      
+       <p>High Score:{this.state.score}</p>
         <div className="friend-zone">
           { this.state.friends.map(friend => <img onClick={()=> this.onClick(friend.id)} key = {friend.id} src= 
           {friend.gif} alt="placeholder"></img>)
