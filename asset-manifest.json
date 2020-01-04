@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Click-Game/static/css/main.47b5a663.chunk.css",
+    "main.js": "/Click-Game/static/js/main.a0567cb9.chunk.js",
+    "main.js.map": "/Click-Game/static/js/main.a0567cb9.chunk.js.map",
+    "runtime-main.js": "/Click-Game/static/js/runtime-main.c6dade65.js",
+    "runtime-main.js.map": "/Click-Game/static/js/runtime-main.c6dade65.js.map",
+    "static/js/2.29e2b810.chunk.js": "/Click-Game/static/js/2.29e2b810.chunk.js",
+    "static/js/2.29e2b810.chunk.js.map": "/Click-Game/static/js/2.29e2b810.chunk.js.map",
+    "index.html": "/Click-Game/index.html",
+    "precache-manifest.bd66354452e0f860b6261aee31cf4f96.js": "/Click-Game/precache-manifest.bd66354452e0f860b6261aee31cf4f96.js",
+    "service-worker.js": "/Click-Game/service-worker.js",
+    "static/css/main.47b5a663.chunk.css.map": "/Click-Game/static/css/main.47b5a663.chunk.css.map",
+    "static/js/2.29e2b810.chunk.js.LICENSE": "/Click-Game/static/js/2.29e2b810.chunk.js.LICENSE",
+    "static/media/17DA3EE7-608C-499B-B8C9-E46410236148_4_5005_c.jpeg": "/Click-Game/static/media/17DA3EE7-608C-499B-B8C9-E46410236148_4_5005_c.fcd28f03.jpeg",
+    "static/media/6EA0E064-4DCD-41D8-93D9-5A14B437E639_4_5005_c.jpeg": "/Click-Game/static/media/6EA0E064-4DCD-41D8-93D9-5A14B437E639_4_5005_c.e7925c76.jpeg",
+    "static/media/9B584571-8956-41F2-9078-9EB122AFF51D_4_5005_c.jpeg": "/Click-Game/static/media/9B584571-8956-41F2-9078-9EB122AFF51D_4_5005_c.f617ec3c.jpeg",
+    "static/media/D7A9F136-8F39-4AB4-90D7-4B7FB3C8CF68_4_5005_c.jpeg": "/Click-Game/static/media/D7A9F136-8F39-4AB4-90D7-4B7FB3C8CF68_4_5005_c.c7ea2d1e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6dade65.js",
+    "static/js/2.29e2b810.chunk.js",
+    "static/css/main.47b5a663.chunk.css",
+    "static/js/main.a0567cb9.chunk.js"
+  ]
+}
