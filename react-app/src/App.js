@@ -26,6 +26,10 @@ class App extends Component {
       {
         gif: require('../src/gifs/17DA3EE7-608C-499B-B8C9-E46410236148_4_5005_c.jpeg'),
         id: 4
+      },
+      {
+        gif: require('../src/gifs/09ACEAE7-411B-4F6F-B58C-89C2DD4B6103_4_5005_c.jpeg'),
+        id: 5
       }
     ]
   };
